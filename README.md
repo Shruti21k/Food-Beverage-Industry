@@ -1,15 +1,20 @@
-# 📈 CodeX Analysis and Dashboard 📊
-Welcome to the CodeX Market Analysis and Dashboard repository! 🚀 <br>
-This project delves into the Indian market for CodeX, a German beverage company, providing insights from a survey dataset through SQL analysis and presenting findings in an interactive Power BI dashboard.
+<h1 align='center'> 📈 CodeX Analysis and Dashboard 📊 </h1>
+
+**Welcome to the CodeX Market Analysis and Dashboard repository!** 🚀 
+<br><br>
+This project delves into the Indian market for CodeX, an imaginary German beverage company, providing insights from a survey dataset through SQL analysis and presenting findings in an interactive Power BI dashboard.
 <hr>
 
 ## 📄 Project Overview 📂
 I have performed a comprehensive analysis on CodeX's energy drink launch in 10 Indian cities based on a survey with 10,000 respondents. 
 The goal was to empower the Marketing team with actionable insights.
 
-Special thanks to @codebasics for providing resources for this project.
+Special thanks to [codebasics](https://github.com/codebasics) for providing resources for this project.
 
-## 🔍Insights drawn:
+Additional details about the dataset and the survey copy have been uploaded in the **'About'** folder.
+
+
+## ⭐️ Insights drawn 🔍
 ```
 ~ Demographic Insights
 1. Gender Preference: Males dominate as the largest consumer segment.
@@ -75,6 +80,5 @@ Dashboard Screenshots are available in *CodeX Dashboard Snapshots* folder
 <hr>
 <br>
 
-***Thank you for visitng this repository! 
-Feel free to contribute, provide feedback, or use the insights to elevate CodeX's marketing strategy in the Indian market. 
-Cheers to success! 🚀🥤***
+<h4 align='center'> <i>Thank you for visitng this repository! Your contributions and feedback are welcome. 
+Cheers to success! 🚀🥤 </i></h4>
